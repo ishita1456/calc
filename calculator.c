@@ -6,7 +6,7 @@ double a, b, result;
 int choice;
 clrscr();
 result = 0;
-printf("Enter two nubers");
+printf("Enter two numbers");
 scanf("%lf%lf", &a,&b);
 printf("Enter your choice: \n 1 for adition\n 2 for subtraction\n 3 for multiplication");
 scanf("%d", &choice);
